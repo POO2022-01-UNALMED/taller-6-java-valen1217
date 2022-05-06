@@ -20,6 +20,7 @@ import vehiculos.Pais;
 import vehiculos.Vehiculo;
 
 
+@SuppressWarnings("unused")
 @TestMethodOrder(MethodOrderer.Alphanumeric.class)
 public class TestConstructores {
 	
